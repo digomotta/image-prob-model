@@ -15,7 +15,6 @@ venv/
 .local/
 
 # Data/artifacts
-artifacts/
 data/
 
 # OS/editor
